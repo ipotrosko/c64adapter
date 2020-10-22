@@ -1,0 +1,21 @@
+Partlist
+
+Exported from joyadapter_v1_1_adi04.sch at 02.12.2005 10:49:50 
+
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Part     Value          Device          Package      Library  Sheet
+
+IC2      MEGA8-P        MEGA8-P         DIL28-3      avr      1
+Q1       12MHz          CRYTALHC49S     HC49/S       crystal  1
+C1, C2       22p            C-EU025-024X044 C025-024X044 rcl      1
+C3, C4, C6, C7, C8       100n           C-EU025-024X044 C025-024X044 rcl      1
+C5       10u            CPOL-EUE2.5-5   E2,5-5       rcl      1
+R1       4k7            R-EU_0207/7     0207/7       rcl      1
+R6       2k2            R-EU_0207/7     0207/7       rcl      1
+R2, R5       100k           R-EU_0207/7     0207/7       rcl      1
+R3, R4       100            R-EU_0207/7     0207/7       rcl      1
+SV1                     MA05-2          MA05-2       con-lstb 1
+X2                      F15HP           F15HP        con-subd 1
+X3                      PN61729         PN61729      con-berg 1
+X4                      M09HP           M09HP        con-subd 1
